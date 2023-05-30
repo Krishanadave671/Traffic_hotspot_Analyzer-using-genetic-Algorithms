@@ -70,11 +70,13 @@ Termination: The algorithm iteratively performs the above steps until a terminat
 The analyzer generates a report containing the identified traffic hotspots and recommendations for potential solutions. These recommendations could include infrastructure improvements, traffic signal optimization, or changes in traffic flow management.
 
 ## Contributors
-- Bhavesh Daphale
-- Krishana Dave
-- Prajwal Dhule
+- [Bhavesh Daphale](https://www.linkedin.com/in/bhavesh-daphale-681598238/)
+- [Krishana Dave](https://www.linkedin.com/in/krishana67/)
+- [Prajwal Dhule](https://www.linkedin.com/in/prajwal-dhule/)
+- [Ayush dodia](https://www.linkedin.com/in/ayush-dodia/)
+
 # Mentors 
-- Ujwala Bharambe
+- [Ujwala Bharambe](https://www.linkedin.com/in/drujwala2702/)
 
 ## License
 This project is licensed under the MIT License.
