@@ -2,13 +2,8 @@
 Link for clusters : https://docs.google.com/spreadsheets/d/1VjruqSdH23siGX02QeTW6gPvpM3m550IURdzH1xuJlE/edit#gid=657859843
 Link for the on which the clusters are plotted: https://datastudio.google.com/reporting/d14e5250-f701-4e9a-a7ce-9f9e3a4aa1c3/page/8vJ7C
 
-## Contributers
-Bhavesh Daphale
-Krishana Dave
-Prajwal Dhule
 
-## Mentor
-Dr. Ujwala Bharambe
+
 
 # Traffic Hotspot Analyzer using Genetic Algorithms
 
@@ -20,7 +15,7 @@ This repository contains a traffic hotspot analyzer implemented using genetic al
 - [Usage](#usage)
 - [Algorithm Overview](#algorithm-overview)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
@@ -74,8 +69,12 @@ Termination: The algorithm iteratively performs the above steps until a terminat
 ## Results 
 The analyzer generates a report containing the identified traffic hotspots and recommendations for potential solutions. These recommendations could include infrastructure improvements, traffic signal optimization, or changes in traffic flow management.
 
-## Contributing
-Contributions to this project are welcome! If you have any ideas, suggestions, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+## Contributors
+- Bhavesh Daphale
+- Krishana Dave
+- Prajwal Dhule
+# Mentors 
+- Ujwala Bharambe
 
 ## License
 This project is licensed under the MIT License.
