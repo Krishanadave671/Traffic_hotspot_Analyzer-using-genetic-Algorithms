@@ -1,9 +1,5 @@
 # Traffic-Hotspot-Analysis
-Link for clusters : https://docs.google.com/spreadsheets/d/1VjruqSdH23siGX02QeTW6gPvpM3m550IURdzH1xuJlE/edit#gid=657859843
-Link for the on which the clusters are plotted: https://datastudio.google.com/reporting/d14e5250-f701-4e9a-a7ce-9f9e3a4aa1c3/page/8vJ7C
-
-
-
+Link for dataset : [dataset](https://docs.google.com/spreadsheets/d/1VjruqSdH23siGX02QeTW6gPvpM3m550IURdzH1xuJlE/edit#gid=657859843)
 
 # Traffic Hotspot Analyzer using Genetic Algorithms
 
@@ -122,7 +118,7 @@ Termination: The algorithm iteratively performs the above steps until a terminat
 
 ## Results 
 The analyzer generates a report containing the identified traffic hotspots and recommendations for potential solutions. These recommendations could include infrastructure improvements, traffic signal optimization, or changes in traffic flow management.
-
+[see Clusters](https://lookerstudio.google.com/reporting/b7d64bfa-ca5e-4010-9ba8-55deff9f5357/page/AunOD)
 ## Contributors
 - [Bhavesh Daphale](https://www.linkedin.com/in/bhavesh-daphale-681598238/)
 - [Krishana Dave](https://www.linkedin.com/in/krishana67/)
