@@ -96,10 +96,10 @@ for this clustering analysis , procedure or algorithm to find data insights as f
 
 4. # Grouping the data by Traffic Divisons :- 
        we grouped the data according to traffic division since we have traffic divison and their tweet counts 
-5. # Kmeans algorithm :- 
+5. # Kmeans algorithm :-
        Kmeans algorithm applied on grouped data using [sklearn](https://scikit-learn.org/stable/) library and made (k = 4) clusters and plot on the Bubble map so traffic police can get insights about data  about which traffic division has most complaints or where more attention traffic police required. 
 
-6. # Genetic algorithm :-          
+7. # Genetic algorithm :-          
        
 
 Initialization: The algorithm starts by creating an initial population of potential solutions, representing different combinations of traffic hotspot locations.
